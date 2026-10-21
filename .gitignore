@@ -1,0 +1,27 @@
+
+# Dependências
+node_modules/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações locais
+.vscode/
+
+# Arquivos com informações sensíveis
+.env
+.env.*
+!.env.example
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+
+# Material original do cliente
+assets/images/LOGO RISE.pdf
+
+
+# Videos originais pesados
+assets/images/*.mov
